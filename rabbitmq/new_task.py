@@ -2,18 +2,19 @@
 import pika
 import datetime
 import time
+import sys
 
 
-def publish_message(_message="Hello World!"):
+def publish_message(_host="localhost", _routing_key='task_queue', _message="Hello World!"):
     connection = pika.BlockingConnection(pika.ConnectionParameters(
-            host='localhost'))
+            host=_host))
     channel = connection.channel()
 
-    channel.queue_declare(queue='task_queue', durable=True)
+    channel.queue_declare(queue='task_queue', durable=False)
 
     message = ' '.join(_message) or "Hello World!"
     channel.basic_publish(exchange='',
-                          routing_key='task_queue',
+                          routing_key=_routing_key,
                           body=message,
                           properties=pika.BasicProperties(
                              delivery_mode=2,  # make message persistent
