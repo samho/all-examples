@@ -15,6 +15,7 @@ collection = db['device_status']
 
 items = collection.find({"$and": [{"product_key": "eda2ed8e1597428fa3fb5f62a23ccd3d"}, {"is_online": {"$exists": True}}]})
 
+
 print "ID, IP, Mac, Did, City, Created At, Updated At, Online First, Online Latest, Online Count"
 
 count = 1
