@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a96c197c-dc59-4236-94e8-e5d901cc6211" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/utils/http_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/all-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/all-examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/samho.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/samho.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KairosDB/clean_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/KairosDB/clean_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/Chinook_Sqlite.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/db/Chinook_Sqlite.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/SNoti2.png" beforeDir="false" afterPath="$PROJECT_DIR$/db/SNoti2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/cookie.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/cookie.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db_reflecting.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/db_reflecting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sqlalchemy-example.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/sqlalchemy-example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/store_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/store_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacking/bhnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacking/bhnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacking/tcp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacking/tcp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacking/tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacking/tcp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacking/udp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/hacking/udp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/get_customized_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/get_customized_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/mongodb-diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/mongodb-diff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq/consumer.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq/consumer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq/new_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq/new_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/poemmaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/poemmaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/templates/index-websocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/templates/index-websocket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/templates/poem.html" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/templates/poem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/tornado_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/tornado_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/tornado_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/tornado_hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/tornado_string_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/tornado_string_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/websocket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/websocket_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tornado/websocket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/tornado/websocket_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/test_module01.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/test_module01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/test_module02.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/test_module02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/test_module03.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/test_module03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/get_user_device_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/get_user_device_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/portStatistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/portStatistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/run_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/run_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-log/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-log/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-log/view_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-log/view_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-log/web_socket.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-log/web_socket.html" afterDir="false" />
+    </list>
+    <ignored path="all-examples.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/all-examples$tornado_string_service.coverage" NAME="tornado_string_service Coverage Results" MODIFIED="1465975419993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all-examples$udp_client.coverage" NAME="udp_client Coverage Results" MODIFIED="1465620702639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacking" />
+    <SUITE FILE_PATH="coverage/all-examples$bhnet.coverage" NAME="bhnet Coverage Results" MODIFIED="1474015032558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacking" />
+    <SUITE FILE_PATH="coverage/all-examples$hellotornado.coverage" NAME="hellotornado Coverage Results" MODIFIED="1465917067496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all_examples$http_request.coverage" NAME="http_request Coverage Results" MODIFIED="1535007552239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/all_examples$portStatistics.coverage" NAME="portStatistics Coverage Results" MODIFIED="1528177576815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/all-examples$db_reflecting.coverage" NAME="db_reflecting Coverage Results" MODIFIED="1490586335810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/all_examples$Unittests_in_test_module03_py.coverage" NAME="Unittests in test_module03.py Coverage Results" MODIFIED="1534912355858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/all-examples$sqlalchemy_example.coverage" NAME="sqlalchemy-example Coverage Results" MODIFIED="1478337510887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/all-examples$demotornado.coverage" NAME="demotornado Coverage Results" MODIFIED="1465806265797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all_examples$ss.coverage" NAME="ss Coverage Results" MODIFIED="1499174255536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/all-examples$demo.coverage" NAME="demo Coverage Results" MODIFIED="1465615045373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/all-examples$poemmaker.coverage" NAME="poemmaker Coverage Results" MODIFIED="1466004220800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all-examples$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1465620936591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacking" />
+    <SUITE FILE_PATH="coverage/all-examples$sqlalchemy.coverage" NAME="sqlalchemy Coverage Results" MODIFIED="1476979465707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/all-examples$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1476006838253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacking" />
+    <SUITE FILE_PATH="coverage/all-examples$run_command.coverage" NAME="run_command Coverage Results" MODIFIED="1481646440022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utls" />
+    <SUITE FILE_PATH="coverage/all-examples$clean_data.coverage" NAME="clean_data Coverage Results" MODIFIED="1494665365394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KairosDB" />
+    <SUITE FILE_PATH="coverage/all_examples$Unittests_in_unittest.coverage" NAME="Unittests in unittest Coverage Results" MODIFIED="1531046014036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/all_examples$Unittests_for_test_module01_TestClass01_test_case01.coverage" NAME="Unittests for test_module01.TestClass01.test_case01 Coverage Results" MODIFIED="1531045979757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/all_examples$mqtt_demo.coverage" NAME="mqtt_demo Coverage Results" MODIFIED="1529401968582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utls" />
+    <SUITE FILE_PATH="coverage/all_examples$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1499173372551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/all_examples$websocket_client.coverage" NAME="websocket_client Coverage Results" MODIFIED="1528791924458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all_examples$Unittests_in_test_moudle02_py.coverage" NAME="Unittests in test_moudle02.py Coverage Results" MODIFIED="1531049982263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/all_examples$store_image.coverage" NAME="store_image Coverage Results" MODIFIED="1508640423366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/all-examples$main.coverage" NAME="main Coverage Results" MODIFIED="1498642981519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all_examples$websocket_server.coverage" NAME="websocket_server Coverage Results" MODIFIED="1528177415138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tornado" />
+    <SUITE FILE_PATH="coverage/all-examples$get_customized_data.coverage" NAME="get_customized_data Coverage Results" MODIFIED="1467951220149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="all-examples" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/http_request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+              <folding>
+                <element signature="e#149#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>topic</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sam Ho" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/hacking/udp_client.py" />
+        <option value="$PROJECT_DIR$/hacking/tcp_server.py" />
+        <option value="$PROJECT_DIR$/hacking/bhnet.py" />
+        <option value="$PROJECT_DIR$/tornado/demotornado.py" />
+        <option value="$PROJECT_DIR$/tornado/hellotornado.py" />
+        <option value="$PROJECT_DIR$/tornado/tornado_string_service.py" />
+        <option value="$PROJECT_DIR$/tornado/poemmaker.py" />
+        <option value="$PROJECT_DIR$/tornado/templates/index.html" />
+        <option value="$PROJECT_DIR$/tornado/templates/poem.html" />
+        <option value="$USER_HOME$/Dev_Projects/mongodbstudy/connection" />
+        <option value="$PROJECT_DIR$/rabbitmq/new_task.py" />
+        <option value="$PROJECT_DIR$/hacking/tcp_client.py" />
+        <option value="$PROJECT_DIR$/db/sqlalchemy.py" />
+        <option value="$PROJECT_DIR$/db/sqlalchemy-example.py" />
+        <option value="$PROJECT_DIR$/mongodb/get_customized_data.py" />
+        <option value="$PROJECT_DIR$/utls/run_command.py" />
+        <option value="$PROJECT_DIR$/db/db_reflecting.py" />
+        <option value="$PROJECT_DIR$/utils/get_user_device_indo.py" />
+        <option value="$PROJECT_DIR$/utils/get_user_device_info.py" />
+        <option value="$PROJECT_DIR$/KairosDB/clean_data.py" />
+        <option value="$PROJECT_DIR$/utils/test.py" />
+        <option value="$PROJECT_DIR$/utils/ss.py" />
+        <option value="$PROJECT_DIR$/tornado/websocket_server.py" />
+        <option value="$PROJECT_DIR$/tornado/templates/index-websocket.html" />
+        <option value="$PROJECT_DIR$/db/store_image.py" />
+        <option value="$PROJECT_DIR$/tornado/main.py" />
+        <option value="$PROJECT_DIR$/utils/portStatistics.py" />
+        <option value="$PROJECT_DIR$/tornado/websocket_client.py" />
+        <option value="$PROJECT_DIR$/utls/mqtt_demo.py" />
+        <option value="$PROJECT_DIR$/unittest/test_module01.py" />
+        <option value="$PROJECT_DIR$/unittest/test_moudle02.py" />
+        <option value="$PROJECT_DIR$/unittest/test_module03.py" />
+        <option value="$PROJECT_DIR$/utils/http_request.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="all-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="all-examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="$PROJECT_DIR$/../env/env_releasemanager/bin/python">
+        <option name="mySdkHome" value="$PROJECT_DIR$/../env/env_releasemanager/bin/python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.http_request">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="all-examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="bhnet" type="PythonConfigurationType" factoryName="Python">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacking/bhnet.py" />
+      <option name="PARAMETERS" value="-l -p 9999 -c" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clean_data" type="PythonConfigurationType" factoryName="Python">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KairosDB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KairosDB/clean_data.py" />
+      <option name="PARAMETERS" value="-s 1483200000 -e 1483286400 -n" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="http_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/http_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_module01.TestClass01.test_case01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_module01.TestClass01.test_case01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_module02.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest/test_module02.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_module03.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest/test_module03.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="all-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bhnet" />
+      <item itemvalue="Python.clean_data" />
+      <item itemvalue="Python.http_request" />
+      <item itemvalue="Python tests.Unittests for test_module01.TestClass01.test_case01" />
+      <item itemvalue="Python tests.Unittests in unittest" />
+      <item itemvalue="Python tests.Unittests in test_module02.py" />
+      <item itemvalue="Python tests.Unittests in test_module03.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.http_request" />
+        <item itemvalue="Python tests.Unittests in test_module03.py" />
+        <item itemvalue="Python tests.Unittests in test_module02.py" />
+        <item itemvalue="Python tests.Unittests in unittest" />
+        <item itemvalue="Python tests.Unittests for test_module01.TestClass01.test_case01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a96c197c-dc59-4236-94e8-e5d901cc6211" name="Default" comment="" />
+      <created>1465614889803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465614889803</updated>
+      <workItem from="1571306453817" duration="1635000" />
+      <workItem from="1573039094475" duration="20000" />
+      <workItem from="1584932344294" duration="188000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding hacking example:&#10;1. udp client&#10;2. tcp client&#10;3. tcp server&#10;4. bhpnet.py, a tool can be use under any environment wiht python.">
+      <created>1465625880607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465625880607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding tornado example&#10;1.  A hello world example&#10;2.  A demo example&#10;3.  A string example&#10;4.  A Web example">
+      <created>1466004120528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1466004120528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding mongodb example and update the main.py of tornado example.">
+      <created>1467971456046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1467971456046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding example for db of sqlalchemy. and update the tcp client.">
+      <created>1477058344747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1477058344747</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add the example db file and rabbitmqadmin tools.">
+      <created>1480604494458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1480604494458</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add some demo or work scripts.">
+      <created>1490584968557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490584968557</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update the clean data script for kairosdb.">
+      <created>1498642309639</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1498642309639</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add an example for storing image into sqlite db.">
+      <created>1508640551231</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508640551231</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add the websocket server and client example.">
+      <created>1509423293591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1509423293591</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update for examples.">
+      <created>1534911422107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1534911422108</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Delete csv files.">
+      <created>1534911902675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1534911902675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_module03_py - 2018.07.08 at 22h 08m 04s.xml">
+      <configuration name="Unittests in test_module03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_module03_py - 2018.07.08 at 22h 32m 43s.xml">
+      <configuration name="Unittests in test_module03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_module03_py - 2018.07.08 at 22h 33m 23s.xml">
+      <configuration name="Unittests in test_module03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_module03_py - 2018.07.08 at 22h 33m 47s.xml">
+      <configuration name="Unittests in test_module03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_module03_py - 2018.08.22 at 12h 32m 36s.xml">
+      <configuration name="Unittests in test_module03.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_moudle02_py - 2018.07.08 at 19h 28m 54s.xml">
+      <configuration name="Unittests in test_moudle02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_moudle02_py - 2018.07.08 at 19h 30m 40s.xml">
+      <configuration name="Unittests in test_moudle02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_moudle02_py - 2018.07.08 at 19h 39m 42s.xml">
+      <configuration name="Unittests in test_moudle02.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.07.04 at 21h 02m 52s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unittest - 2018.07.08 at 18h 33m 34s.xml">
+      <configuration name="Unittests in unittest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1843000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43965518" visible="true" weight="0.18210863" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5603448" side_tool="true" weight="0.14802982" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848233" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713057" weight="0.3960499" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4978701" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32866243" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021299" side_tool="true" weight="0.26611227" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32866243" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Data View" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding hacking example:&#10;1. udp client&#10;2. tcp client&#10;3. tcp server&#10;4. bhpnet.py, a tool can be use under any environment wiht python." />
+    <MESSAGE value="Adding tornado example&#10;1.  A hello world example&#10;2.  A demo example&#10;3.  A string example&#10;4.  A Web example" />
+    <MESSAGE value="Adding mongodb example and update the main.py of tornado example." />
+    <MESSAGE value="Adding example for db of sqlalchemy." />
+    <MESSAGE value="Adding example for db of sqlalchemy. and update the tcp client." />
+    <MESSAGE value="Add the example db file and rabbitmqadmin tools." />
+    <MESSAGE value="Add some demo or work scripts." />
+    <MESSAGE value="Update the clean data script for kairosdb." />
+    <MESSAGE value="Add an example for storing image into sqlite db." />
+    <MESSAGE value="Add the websocket server and client example." />
+    <MESSAGE value="update for examples." />
+    <MESSAGE value="Delete csv files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete csv files." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/KairosDB/clean_data.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo.py" />
+    <entry file="file://$PROJECT_DIR$/../env/env_torando/lib/python2.7/site-packages/tornado/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936">
+          <caret line="213" column="8" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev_Projects/mongodbstudy/connection" />
+    <entry file="file://$PROJECT_DIR$/../env/env_all_examples/lib/python2.7/site-packages/pika/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="324" column="20" selection-start-line="323" selection-end-line="324" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/new_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqlalchemy.py" />
+    <entry file="file://$PROJECT_DIR$/utls/domain.csv" />
+    <entry file="file://$PROJECT_DIR$/hacking/tcp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacking/tcp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/db_reflecting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env/env_all_examples/lib/python2.7/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="106" column="47" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Work/Server_Setup/PrivateCloud/WanDa/get_auth.py" />
+    <entry file="file://$PROJECT_DIR$/hacking/udp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="211" column="42" selection-start-line="211" selection-start-column="42" selection-end-line="211" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/poemmaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/templates/poem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/test.py" />
+    <entry file="file://$PROJECT_DIR$/utils/ss.py" />
+    <entry file="file://$PROJECT_DIR$/tornado/tornado_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/tornado_hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqlalchemy-example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="132" column="27" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/store_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utls/run_command.py" />
+    <entry file="file://$PROJECT_DIR$/tornado/templates/index-websocket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/websocket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/websocket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/rabbitmqadmin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10468">
+          <caret line="362" column="38" selection-start-line="362" selection-start-column="38" selection-end-line="362" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KairosDB/clean_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tornado/tornado_string_service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/domain.csv" />
+    <entry file="file://$PROJECT_DIR$/utls/mqtt_demo.py" />
+    <entry file="file://$PROJECT_DIR$/unittest/test_module01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/test_module02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/test_module03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/mongodb-diff.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/get_customized_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacking/bhnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/run_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/portStatistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3729" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/get_user_device_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2670">
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/http_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+          <folding>
+            <element signature="e#149#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
